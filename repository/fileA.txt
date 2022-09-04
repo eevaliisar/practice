@@ -1,1 +1,1 @@
-Alex has a cat and a dog and a fish.
+The changed contents of file A are here.Alex has a cat and a dog and a fish.
