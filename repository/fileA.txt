@@ -1,3 +1,1 @@
-Some more changes
-Alex has a cat
-
+Alex has a cat and a dog and a fish.
